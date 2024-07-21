@@ -1,4 +1,4 @@
-
+ [![Anonymousgif](https://i.giphy.com/media/2Y0ecuTsnAvZK/200.gif)
 ## Developer & Cyber Expert!
 <img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"/>
 Welcome to my GitHub profile! I'm H3C4KEDZ, a passionate programmer and skilled developer with a focus on creating innovative solutions. With a strong background in cybersecurity, I'm dedicated to building robust and secure software.
